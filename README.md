@@ -43,6 +43,7 @@ I enjoy designing systems around:
 **Cloud & Infrastructure:**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
 </p>
