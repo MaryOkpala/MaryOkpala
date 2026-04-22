@@ -39,32 +39,36 @@ I enjoy working on:
 
 ## 🚀 Featured Projects
 
-### 🔹 CI/CD Pipeline with Jenkins
-Designed and implemented a complete CI/CD pipeline integrating GitHub, Jenkins, and Docker.
+### 🔹 Stratum — Full DevOps Pipeline & Cloud Deployment
+Designed and implemented a **complete DevOps workflow** for application deployment.
 
-- Automated build, test, and deployment workflows  
-- Integrated webhook triggers for continuous delivery  
-- Containerized deployment using Docker  
-
----
-
-### 🔹 Containerized Application Deployment
-Built and deployed applications using Docker and Docker Compose.
-
-- Created optimized Dockerfiles  
-- Managed multi-container environments  
-- Deployed images to container registry  
+- Built CI/CD pipeline for automated build, test, and deployment  
+- Containerized application using Docker  
+- Integrated cloud deployment on AWS  
+- Implemented scalable and production-style architecture  
 
 ---
 
-### 🔹 Monitoring & Observability Stack
-Implemented a monitoring solution using Prometheus and Grafana.
+### 🔹 Vigil — Monitoring & Observability System
+Developed a **real-time monitoring stack** for system performance and reliability.
 
-- Real-time metrics collection  
-- Custom dashboards for system monitoring  
-- Improved system visibility and performance tracking  
+- Implemented Prometheus for metrics collection  
+- Designed Grafana dashboards for visualization  
+- Monitored application health and infrastructure metrics  
+- Improved system observability and alerting capabilities  
 
 ---
+
+### 🔹 Crucible — Containerized Application & Deployment Automation
+Built a **container-based deployment system** focused on scalability and automation.
+
+- Designed Docker-based application architecture  
+- Automated deployment workflows  
+- Integrated CI/CD tools for continuous delivery  
+- Ensured portability and environment consistency  
+
+---
+
 
 ## 📈 Current Focus
 
