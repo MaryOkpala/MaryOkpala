@@ -54,35 +54,21 @@ I enjoy working on:
 
 ## 🚀 Featured Projects
 
-### 🔹 Stratum — Full DevOps Pipeline & Cloud Deployment
-Designed and implemented a **complete DevOps workflow** for application deployment.
+### 🔹 Stratum 
+A fully automated cloud infrastructure provisioning and configuration system using Terraform and Ansible."
+Stack: Terraform (AWS VPC, EC2, security groups, S3 remote state) + Ansible (role-based configuration, playbooks for app deployment). Deploys a real multi-tier application (web + app + DB tier)
 
-- Built CI/CD pipeline for automated build, test, and deployment  
-- Containerized application using Docker  
-- Integrated cloud deployment on AWS  
-- Implemented scalable and production-style architecture  
 
----
+### 🔹 Vigil — (Monitoring, Alerting + GitOps with Kubernetes intro)
+A cloud-native observability stack with GitOps-driven deployments on Kubernetes.
+Stack: Docker → Amazon EKS → Prometheus → Grafana → AlertManager → ArgoCD for GitOps.
 
-### 🔹 Vigil — Monitoring & Observability System
-Developed a **real-time monitoring stack** for system performance and reliability.
 
-- Implemented Prometheus for metrics collection  
-- Designed Grafana dashboards for visualization  
-- Monitored application health and infrastructure metrics  
-- Improved system observability and alerting capabilities  
+### 🔹 Crucible 
+An enterprise-grade build and delivery pipeline with integrated code quality enforcement and artifact management.
+Stack: GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat, Trivy for container image scanning. Prometheus + Grafana for pipeline observability.
 
----
 
-### 🔹 Crucible — Containerized Application & Deployment Automation
-Built a **container-based deployment system** focused on scalability and automation.
-
-- Designed Docker-based application architecture  
-- Automated deployment workflows  
-- Integrated CI/CD tools for continuous delivery  
-- Ensured portability and environment consistency  
-
----
 
 
 ## 📈 Current Focus
