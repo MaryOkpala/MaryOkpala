@@ -10,7 +10,7 @@
 
 I am a DevOps Engineer focused on designing and delivering **scalable, secure, and automated infrastructure systems**.
 
-I specialize in building end-to-end DevOps workflows that bridge development and operations — from code commit to production deployment — with strong emphasis on reliability, observability, and automation.
+I specialize in building end-to-end DevOps workflows that bridge development and operations, from code commit to production deployment, with strong emphasis on reliability, observability, and automation.
 
 I enjoy designing systems around:
 - 🔁 CI/CD pipelines that reduce deployment friction and human error  
