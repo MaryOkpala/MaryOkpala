@@ -52,9 +52,9 @@ I enjoy working on:
 </p>
 ---
 
-## 🚀 Featured Projects
+## 🚀 Some Featured Projects
 
-### 🔹 Stratum 
+### 🔹 Stratum - (Infrastructure as Code + Configuration Management)
 A fully automated cloud infrastructure provisioning and configuration system using Terraform and Ansible.
 
 Stack: Terraform (AWS VPC, EC2, security groups, S3 remote state) + Ansible (role-based configuration, playbooks for app deployment). Deploys a real multi-tier application (web + app + DB tier)
@@ -66,7 +66,7 @@ A cloud-native observability stack with GitOps-driven deployments on Kubernetes.
 Stack: Docker → Amazon EKS → Prometheus → Grafana → AlertManager → ArgoCD for GitOps.
 
 
-### 🔹 Crucible 
+### 🔹 Crucible - (CI/CD + Quality Gate Pipeline)
 An enterprise-grade build and delivery pipeline with integrated code quality enforcement and artifact management.
 
 Stack: GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat, Trivy for container image scanning. Prometheus + Grafana for pipeline observability.
@@ -76,7 +76,7 @@ Stack: GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat, Trivy fo
 
 ## 📈 Current Focus
 
-- ☁️ Advancing cloud skills (AWS)
+- ☁️ Advancing cloud skills 
 - ⚙️ Improving infrastructure automation
 - 🚀 Building more production-grade DevOps systems
 
