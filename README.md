@@ -47,7 +47,7 @@ I enjoy working on:
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog"/>
-  
+  <img src="https://img.shields.io/badge/ArgoCD-FE6A16?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
 </p>
 ---
