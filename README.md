@@ -76,7 +76,18 @@ Designed and implemented a fully automated cloud infrastructure provisioning sys
 - Deployed a multi-tier application architecture (web, app, database layers)
 
 ---
+### 🔹 Petrus — Internal Developer Platform
 
+Designed and built a self-service Internal Developer Platform that eliminates the bottleneck between development teams and platform engineering.
+
+- Python CLI and Flask web portal for self-service environment provisioning
+- Open Policy Agent (OPA) enforcing policy-as-code across all provisioning requests — security, cost, and environment governance with 6/6 automated policy tests
+- Reusable Terraform modules for four environment types: web-app, API, data pipeline, and AI/ML workloads
+- ArgoCD GitOps integration for declarative application delivery per environment
+- Prometheus and Grafana observability stack deployed automatically with every environment
+- Service catalog for organisation-wide service discovery
+
+---
 ### 🔹 Vigil — Observability & GitOps Platform
 Built a cloud-native monitoring system with GitOps-based deployment workflow.
 
